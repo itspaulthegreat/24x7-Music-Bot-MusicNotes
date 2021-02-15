@@ -6,7 +6,7 @@ from discord.ext import commands
 
 import music
 
-bot = commands.Bot(command_prefix=':', description="Hello")
+bot = commands.Bot(command_prefix='-', description="-play to play me")
 
 @bot.event
 async def on_ready():
