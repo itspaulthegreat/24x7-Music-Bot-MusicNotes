@@ -1,4 +1,4 @@
-# Melodies bot
+# MusicNotes 24x7 bot
 
 ## To run locally
 
